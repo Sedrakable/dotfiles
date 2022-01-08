@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = sedrak005@gmail.com
+	name = Sedrak Nadzharyan
